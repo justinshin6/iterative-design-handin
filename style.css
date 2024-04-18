@@ -118,18 +118,13 @@ p {
     flex-direction: row;
     justify-content: center;
     text-align: center;
-    margin: 10px 10px;
+    margin: 10px 0px;
+
     img {
         width: 650px;
         margin: 0 25px;
+        max-height: 80%;
     }
-}
-
-.web-img {
-    max-width: 100%;
-    max-height: 80%;
-    width: auto;
-    height: auto;
 }
 
 .lof-list {
@@ -201,4 +196,8 @@ a:hover {
 
 .italicize {
     font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
 }
