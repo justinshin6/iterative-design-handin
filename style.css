@@ -127,6 +127,10 @@ p {
     }
 }
 
+.web-img {
+    margin: 0px;
+}
+
 .lof-list {
     margin-left: 15px;
 }
@@ -166,26 +170,26 @@ a:hover {
     text-decoration: underline;
 }
 
-.react-contain {
+.loom-contain {
     justify-content: center;
     text-align: center;
     position: relative;
 }
 
-.react-button {
+.loom-button {
     padding: 30px 0px;
     margin: 15px 0;
     background-color: var(--color-button);
     color: white;
     border: none;
     font-size: 22px;
-    width: 50%;
+    width: 40%;
     border-radius: 20px;
     transition: background-color 0.3s ease;
     font-family: var(--font-body);
 }
 
-.react-button:hover {
+.loom-button:hover {
     cursor: pointer;
     background-color: var(--color-button-hover);
 }
