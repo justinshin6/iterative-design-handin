@@ -25,6 +25,7 @@
     background-color: var(--color-background);
     margin: 20px;
     font-family: var(--font-body);
+    scroll-behavior: smooth;
 }
 
 /* NAVBAR  */
@@ -170,13 +171,13 @@ a:hover {
     text-decoration: underline;
 }
 
-.loom-contain {
+.button-contain {
     justify-content: center;
     text-align: center;
     position: relative;
 }
 
-.loom-button {
+.web-button {
     padding: 30px 0px;
     margin: 15px 0;
     background-color: var(--color-button);
@@ -189,7 +190,7 @@ a:hover {
     font-family: var(--font-body);
 }
 
-.loom-button:hover {
+.web-button:hover {
     cursor: pointer;
     background-color: var(--color-button-hover);
 }
