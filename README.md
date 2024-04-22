@@ -9,10 +9,11 @@
 
 ### Overview
 
--   For this project, we were tasked of improving the overall onboarding design process for [Modular]([https://www.modular.com/]). The main pain point was that the startup was losing users during the initial onboarding process, so we wanted to make the process appeal to users that are both familiar and unfamiliar with the application. As a result, we came up with a forked approach for the onboarding process.
-    - First, there would be `Flow One` that will allow users that are familiar with the application to immediately just create an account. Then, they can install the necessary dependencies that are required after they create an account. 
-    - However, for people that might be more unfamiliar with the application, they can go through `Flow Two` which allows the user to test MAX locally by installing the dependencies first, playing around with a couple of examples, and then allowing them to create an account. 
-- This forked approach is what we ended up presenting to our client for our final review. 
+-   For this project, we were tasked of improving the overall onboarding design process for [Modular](https://www.modular.com/). The main pain point was that the startup was losing users during the initial onboarding process, so we wanted to make the process appeal to users that are both familiar and unfamiliar with the application. As a result, we came up with a forked approach for the onboarding process.
+    -   First, there would be `Flow One` that will allow users that are familiar with the application to immediately just create an account. Then, they can install the necessary dependencies that are required after they create an account.
+    -   However, for people that might be more unfamiliar with the application, they can go through `Flow Two` which allows the user to test MAX locally by installing the dependencies first, playing around with a couple of examples, and then allowing them to create an account.
+-   This forked approach is what we ended up presenting to our client for our final review.
+
 ### Links
 
 -   Link to Handin Webpage found [here]().
